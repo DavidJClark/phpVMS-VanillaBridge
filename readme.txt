@@ -15,7 +15,7 @@ www.simpilotgroup.com
 www.david-clark.net
 
 Developed on:
-phpVMS 2.0.874
+phpVMS 2.1.934-170
 php 5.2.11
 mysql 5.0.51
 apache 2.2.11
