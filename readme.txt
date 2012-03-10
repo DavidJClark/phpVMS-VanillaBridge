@@ -1,6 +1,6 @@
 phpVMS Vanilla Forum Bridge
 
-phpVMS module to extract monthly flight statistics for individual pilots from your phpVMS based virtual airline.
+phpVMS module to login users from your phpVMS based virtual airline to a Vanilla Forum install.
 
 Released under the following license:
 Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License
