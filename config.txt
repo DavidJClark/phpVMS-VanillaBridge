@@ -1,4 +1,4 @@
-plugin=phpVMS Vanilla Forum Bridge
+plugin=Vanilla Forum Bridge
 author=David Clark
 email=david@simpilotgroup.com
 version=1.0
